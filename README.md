@@ -1,16 +1,28 @@
-## Hi there 👋
+# Ricardo Vargas
 
-<!--
-**RicardoVMon/RicardoVMon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Description:**  
+I like tech and food
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** Python, Java, HTML, CSS, JavaScript, SQL
+- **Frameworks:** Springboot
+- **Libraries:** matplotlib, numpy, pandas
+- **Concepts:** Data Analysis, Multithreading, Web Sockets, Data Structures
+- **Technologies:** Cloud Computing, Networking
+
+## Experience
+
+- **Current Role:** Student
+
+## Certifications
+
+- **AZ-900:** Microsoft Azure Fundamentals
+- **CCNA 1:** Introduction to Networks
+- **CCNA 2:** Switching, Routing, and Wireless Essentials
+- **Scrum Fundamentals Certified (SFC)** by SCRUMstudy
+
+## Interests
+
+- Tech
+- Food
