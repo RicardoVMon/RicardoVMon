@@ -1,7 +1,7 @@
 # Ricardo Vargas
 
 **Description:**  
-I like tech and food
+Hi, I like tech and food
 
 ## Skills
 
@@ -21,8 +21,3 @@ I like tech and food
 - **CCNA 1:** Introduction to Networks
 - **CCNA 2:** Switching, Routing, and Wireless Essentials
 - **Scrum Fundamentals Certified (SFC)** by SCRUMstudy
-
-## Interests
-
-- Tech
-- Food
