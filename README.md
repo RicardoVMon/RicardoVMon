@@ -22,16 +22,10 @@ Hi, I like tech and food
 - **CCNA 2:** Switching, Routing, and Wireless Essentials
 - **Scrum Fundamentals Certified (SFC)** by SCRUMstudy
 
-<div style="display: flex; justify-content: center;">
-  <table style="border: none;">
-    <tr>
-      <td style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoVMon&layout=compact" width="400" height="200">
-      </td>
-      <td style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api?username=RicardoVMon&show_icons=true&theme=default" width="400" height="200">
-      </td>
-    </tr>
-  </table>
-</div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=RicardoVMon" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RicardoVMon&layout=compact&langs_count=8&card_width=320" />
+</a>
 
