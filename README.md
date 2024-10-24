@@ -26,10 +26,10 @@ Hi, I like tech and food
   <table style="border: none;">
     <tr>
       <td style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api?username=RicardoVMon&show_icons=true&theme=default" width="400" height="200">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoVMon&layout=compact" width="400" height="200">
       </td>
       <td style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoVMon&layout=compact" width="400" height="200">
+        <img src="https://github-readme-stats.vercel.app/api?username=RicardoVMon&show_icons=true&theme=default" width="400" height="200">
       </td>
     </tr>
   </table>
