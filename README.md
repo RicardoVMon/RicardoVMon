@@ -21,3 +21,5 @@ Hi, I like tech and food
 - **CCNA 1:** Introduction to Networks
 - **CCNA 2:** Switching, Routing, and Wireless Essentials
 - **Scrum Fundamentals Certified (SFC)** by SCRUMstudy
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RicardoVMon)](https://github.com/anuraghazra/github-readme-stats)
