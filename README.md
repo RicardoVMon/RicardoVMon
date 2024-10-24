@@ -22,6 +22,13 @@ Hi, I like tech and food
 - **CCNA 2:** Switching, Routing, and Wireless Essentials
 - **Scrum Fundamentals Certified (SFC)** by SCRUMstudy
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RicardoVMon)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoVMon&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=RicardoVMon&show_icons=true&theme=default" width="400" height="200">
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoVMon&layout=compact" width="400" height="200">
+    </td>
+  </tr>
+</table>
