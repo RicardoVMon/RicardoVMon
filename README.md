@@ -30,6 +30,3 @@ Hi, I like tech and food
     <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=RicardoVMon&layout=compact&langs_count=8&card_width=320" />
   </a>
 </p>
-
-
-![Funny cat GIF](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
